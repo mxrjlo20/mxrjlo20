@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 Murilo Lima dos Santos</h1>
 
-<!--
-**mxrjlo20/mxrjlo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Estudante de Desenvolvimento de Sistemas <br>
+  💻 Focado em Back-end, Banco de Dados e Infraestrutura de Redes <br>
+  🚀 Em constante evolução
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre mim
+<p align="center">
+Sou estudante de tecnologia apaixonado por programação e infraestrutura.
+Atualmente focado em fortalecer minha base em lógica, banco de dados,
+versionamento e fundamentos de redes.
+</p>
+
+---
+
+🛠️ Tecnologias
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux" />
+</p>
+
+<p align="center">
+🐍 Python &nbsp;&nbsp; 
+🗄️ MySQL &nbsp;&nbsp; 
+🌿 Git &nbsp;&nbsp; 
+🐙 GitHub &nbsp;&nbsp; 
+🌐 Infraestrutura de Redes
+</p>
+
+---
+
+📊 Estatísticas
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mxrjlo20&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrjlo20&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+🔥 Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mxrjlo20&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+🎯 Objetivo
+<p align="center">
+Construir projetos sólidos, evoluir como desenvolvedor
+e aplicar conhecimentos tanto em software quanto em redes.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
