@@ -32,14 +32,6 @@ versionamento e fundamentos de redes.
 
 ---
 
-📊 Estatísticas
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mxrjlo20&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrjlo20&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 🔥 Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mxrjlo20&theme=tokyonight&hide_border=true" />
